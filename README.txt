@@ -21,7 +21,7 @@ Requirements include RESTful API, MongoDB data modeling (embedded + referenced),
   - Categories
   - Transactions
   - Budgets
-  - About/Donations (6th page to satisfy minimum pages for 2 students)
+  - About/Donations 
 
 ### Tech Stack
 - **Frontend**: React + Vite
